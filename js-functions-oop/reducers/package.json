@@ -1,0 +1,18 @@
+{
+  "name": "reducers",
+  "version": "1.0.0",
+  "description": "Custom reducer functions for Array.reduce()",
+  "type": "module",
+  "jest": {
+    "transform": {}
+  },
+  "scripts": {
+    "test": "node --experimental-vm-modules node_modules/jest/bin/jest.js"
+  },
+  "keywords": ["javascript", "reducer", "higher-order-functions"],
+  "author": "Samuel Dameg",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
